@@ -1,5 +1,5 @@
 # tiktok-checker
-slow ass tiktok checker made wit rotating proxies
+slow ass tiktok checker made with rotating proxies
 
 make a text file called usernames.txt if you have a username list, if not generate a list using usergen.py
 
